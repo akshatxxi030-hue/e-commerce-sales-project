@@ -1,9 +1,7 @@
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
-import seaborn as sns
 import plotly.express as px
-import plotly.graph_objects as go
 import plotly.colors as colors
 
  
@@ -58,4 +56,5 @@ fig4.show()
 profit_by_sub_category=df.groupby("Sub-Category")["Profit"].sum().reset_index()
 fig5=px.bar(profit_by_sub_category,x='Sub-Category',y='Profit',title='Profit analysis by sub category')
 fig5.show()
+
 
