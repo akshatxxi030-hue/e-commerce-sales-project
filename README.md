@@ -14,7 +14,7 @@ sales trends, product performance, and customer purchasing patterns.
 ## Tools & Technologies
 - Python
 - Pandas
-- pyplot
+- Matplotlib
 - Jupyter Notebook
 
 ## Dataset
