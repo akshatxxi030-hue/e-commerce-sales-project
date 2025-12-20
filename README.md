@@ -32,7 +32,3 @@ Basic cleaning and preprocessing were performed before analysis.
 - e_commerce_sales_analysis.ipynb → Main analysis notebook
 - e_commerce_analysis_raw_code.py → Python script version of the analysis
 
-## Future Improvements
-- Add machine learning models for sales forecasting
-- Build an interactive dashboard
-- Perform customer segmentation
